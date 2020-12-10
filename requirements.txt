@@ -1,0 +1,12 @@
+CPython 3.6.9
+IPython 7.16.1
+
+compiler   : GCC 8.4.0
+system     : Linux
+release    : 5.4.0-56-generic
+machine    : x86_64
+processor  : x86_64
+CPU cores  : 4
+interpreter: 64bit
+
+last updated: Thu Dec 10 2020 15:51:42 -05
